@@ -56,9 +56,8 @@ Install these libraries from the Arduino Library Manager:
 ---
 
 ## Demo
-
-You can download the demo image here:  
-[ESP32 OLED Demo Image](https://drive.google.com/file/d/16pe0XmlFHVWIpMVkH1cILu1ehH07WTPX/view?usp=sharing)
+  
+[ESP32 OLED Demo Image](https://github.com/vinaysubramanya/OLEDCLOCK/blob/main/oled.jpg)
 
 ---
 
